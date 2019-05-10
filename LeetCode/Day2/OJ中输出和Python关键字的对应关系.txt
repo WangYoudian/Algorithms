@@ -1,0 +1,6 @@
+前面都是OJ的格式，后者对应Python输出格式/关键字
+
+true True
+null False/None
+
+某个特殊的输出 参考discussion其他语言或者Python通过的版本
