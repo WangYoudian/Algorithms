@@ -1,0 +1,8 @@
+早就想总结一下了：
+String-Matching Algorithms参考：
+https://en.wikipedia.org/wiki/String-searching_algorithm
+
+看了这么多字符串匹配算法，果然还是KMP算法老哥最稳。（只有BNDM复杂度和它相同）但是wiki却说了实际中BM算法更广泛，作为模板来用。
+
+那还不学习一波——
+https://www.baidu.com/link?url=fJ5P3mDdJxPJPBMMaMXI6v46fW-leyqoYE3FYjm-BbR0Qm9ltLpKvo9ByvHETTtzxOUFZPgCS-BNi6E2sN8eEK&wd=&eqid=e7777cec00159a72000000065cdfb890
